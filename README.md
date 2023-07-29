@@ -1,25 +1,54 @@
 
-<h3 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h5 align="center">I'm David 😄 
-<h3 align="center"><a href="https://www.linkedin.com/in/davidgman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/static/v1?label=DevOPS&message=Enthusiast&color=red" />
+<h3 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h5 align="center">I'm Elad 😄 
+<h3 align="center"><a href="[https://www.linkedin.com/in/davidgman/](https://www.linkedin.com/in/elad-bernard-haviv-873b76136/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://img.shields.io/static/v1?label=Electrical Engineer&message=Certified&color=green" />
+<img src="https://img.shields.io/static/v1?label=Web Development&message=Enthusiast&color=red" />
 
 ---
 
-### :woman_technologist: About Me :
+### :technologist: About Me :
 
- I'm a DevOPS engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Israel.
- - :telescope: I’m currently learning and doing projects.
- - :zap: I Specialize in computer repair and deal with day to day HW/SW issues.
- - :seedling: I have high abilities in identifying and solving problems quickly, high motivation, ability, and experience working under pressure. 
- Currently passionate about Docker, Jenkins, Ansible, Terraform, AWS and Automation.
+ I'm an electrical engineer at the Israeli Air Force. Intrested in Web Development & Full Stack applications.
+ - :zap: I specialize in power generation and distribution systems.
+ - :seedling: I’m currently studying for master's degree in computer science.
+ - :fire: I'm doing freelance web development jobs since 2010.
+ - :telescope: I'm highly motivated, good at identifying and solving problems, experienced in leading teams and working under pressure.
+ - :brain: I believe in life-long learning.
+ 
+ Currently passionate about Front End Development.
 
 ### :hammer_and_wrench: Languages and Tools :
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/html-5.svg" alt="HTML" title="HTML" height="32" /> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/css-3.svg" alt="CSS" title="CSS" height="32" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/javascript.svg" alt="JavaScript" title="JavaScript" height="32" /> 
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/sass.svg" alt="Sass" title="Sass" height="32" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="32" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/uikit.svg" alt="UIKit" title="UIKit" height="32" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" height="32" />
 
+
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nodejs-icon.svg" alt="NodeJS" title="NodeJS" height="32" /> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jquery.svg" alt="jQuery" title="jQuery" height="32" /> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vue.svg" alt="Vue" title="Vue" height="32" /> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg" alt="React" title="React" height="32" /> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/alpinejs-icon.svg" alt="Alpine.js" title="Alpine.js" height="32" /> 
+
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/php.svg" alt="PHP" title="PHP" height="32" /> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/laravel.svg" alt="Laravel" title="Laravel" height="32" />
+
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/git.svg" alt="Git" title="Git" height="32" />
+
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/python.svg" alt="Python" title="Python" height="32" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c.svg" alt="C" title="C" height="32" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-plusplus.svg" alt="C++" title="C++" height="32" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-sharp.svg" alt="C#" title="C#" height="32" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/java.svg" alt="Java" title="Java" height="32" />
+
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql-icon.svg" alt="MySQL" title="MySQL" height="32" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mongodb-icon.svg" alt="MongoDB" title="MongoDB" height="32" />
 
 ---
-[![](https://raw.githubusercontent.com/dvdgitman/workflows/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![](https://raw.githubusercontent.com/elad-haviv/workflows/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
