@@ -19,35 +19,7 @@
  Currently passionate about Front End Development.
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/html-5.svg" alt="HTML" title="HTML" height="32" /> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/css-3.svg" alt="CSS" title="CSS" height="32" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/javascript.svg" alt="JavaScript" title="JavaScript" height="32" /> 
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/sass.svg" alt="Sass" title="Sass" height="32" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="32" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/uikit.svg" alt="UIKit" title="UIKit" height="32" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" height="32" />
-
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nodejs-icon.svg" alt="NodeJS" title="NodeJS" height="32" /> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jquery.svg" alt="jQuery" title="jQuery" height="32" /> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vue.svg" alt="Vue" title="Vue" height="32" /> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg" alt="React" title="React" height="32" /> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/alpinejs-icon.svg" alt="Alpine.js" title="Alpine.js" height="32" /> 
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/php.svg" alt="PHP" title="PHP" height="32" /> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/laravel.svg" alt="Laravel" title="Laravel" height="32" />
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/git.svg" alt="Git" title="Git" height="32" />
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/python.svg" alt="Python" title="Python" height="32" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c.svg" alt="C" title="C" height="32" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-plusplus.svg" alt="C++" title="C++" height="32" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-sharp.svg" alt="C#" title="C#" height="32" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/java.svg" alt="Java" title="Java" height="32" />
-
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql-icon.svg" alt="MySQL" title="MySQL" height="32" />
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mongodb-icon.svg" alt="MongoDB" title="MongoDB" height="32" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/html-5.svg" alt="HTML" title="HTML" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/css-3.svg" alt="CSS" title="CSS" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/javascript.svg" alt="JavaScript" title="JavaScript" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/sass.svg" alt="Sass" title="Sass" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/uikit.svg" alt="UIKit" title="UIKit" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nodejs-icon.svg" alt="NodeJS" title="NodeJS" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jquery.svg" alt="jQuery" title="jQuery" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vue.svg" alt="Vue" title="Vue" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg" alt="React" title="React" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/alpinejs-icon.svg" alt="Alpine.js" title="Alpine.js" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/php.svg" alt="PHP" title="PHP" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/laravel.svg" alt="Laravel" title="Laravel" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/git.svg" alt="Git" title="Git" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/python.svg" alt="Python" title="Python" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c.svg" alt="C" title="C" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-plusplus.svg" alt="C++" title="C++" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-sharp.svg" alt="C#" title="C#" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/java.svg" alt="Java" title="Java" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql-icon.svg" alt="MySQL" title="MySQL" height="32" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mongodb-icon.svg" alt="MongoDB" title="MongoDB" height="32" /> 
 
 ---
 [![](https://raw.githubusercontent.com/elad-haviv/workflows/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
